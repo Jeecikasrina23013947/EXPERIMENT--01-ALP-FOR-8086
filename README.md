@@ -132,7 +132,7 @@ HLT
 
 ## Result :
  
-Thus, to write and execute ALP on fundamental arithmetic operations is successful.
+Thus, To write and execute ALP on fundamental arithmetic operations is successful.
 
 
 
