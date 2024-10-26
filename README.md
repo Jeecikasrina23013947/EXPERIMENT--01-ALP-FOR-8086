@@ -1,8 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 
-Name :EZHIL SREE J
+Name :JEECIKASRINA M
 
-Roll no : 212223230056
+Roll no : 212223100015
 
 Date of experiment :16.08.2024
 
